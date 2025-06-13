@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0",
-  "storeUrl": "https://play.google.com/store/apps/details?id=com.raian.vpn",
-  "notes": "New features and bug fixes"
+  "update_available": "A New Update is Available!",
+  "update_required_message": "Please update {name} to the latest version to access all new features and improvements.",
+  "update_now": "Update Now"
 }
